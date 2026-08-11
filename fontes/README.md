@@ -1,3 +1,14 @@
+# Fontes que usei
+
+Reuni estas fontes no Gemini Notebook por oferecerem perspectivas complementares sobre o aprendizado inicial de Python.
+
+| Fonte | Tipo | Link | Como eu a usei no experimento |
+| --- | --- | --- | --- |
+| Documentação oficial do Python | Documentação | [Acessar documentação](https://docs.python.org/pt-br/3/) | Usei como referência técnica da linguagem. |
+| Curso em Vídeo: Python | Curso | [Python 3 — Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/) | Usei para os primeiros passos, exercícios e prática. |
+| *Pense em Python* | Livro | [Ler a edição em português](https://penseallen.github.io/PensePython2e/) | Usei para apoiar o pensamento computacional e a estruturação de ideias. |
+| Python Brasil | Comunidade | [Acessar Python Brasil](https://python.org.br/index) | Usei como apoio de comunidade. |
+| *3 projetos fáceis em Python* | Projeto/tutorial | [Assistir ao vídeo](https://www.youtube.com/watch?v=cc8TTzYa2fM) | Usei como referência de exemplos práticos. |
 # Fontes utilizadas
 
 Reuni estas fontes no Gemini Notebook por oferecerem perspectivas complementares sobre o aprendizado inicial de Python.
