@@ -64,7 +64,7 @@ Durante o experimento, gerei no Gemini Notebook:
 
 Os slides também revelaram um limite importante: alguns resultados deram destaque excessivo à fonte de projetos com interface gráfica, incluindo Tkinter e programação orientada a eventos. Essa observação reforçou para mim que as fontes selecionadas e a formulação do pedido influenciam o material gerado.
 
-Os materiais que eu decidir publicar ficarão em [`resultados/`](resultados/README.md).
+Registrei os links dos materiais que compartilhei em [`resultados/`](resultados/README.md).
 
 ## O que aprendi
 
