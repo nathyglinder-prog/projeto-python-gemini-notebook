@@ -1,5 +1,5 @@
 # Prompts e cicatrizes
 
-O resumo dos três experimentos está no [README principal](../README.md). Esta pasta pode receber capturas de tela ou transcrições das respostas, caso você queira disponibilizá-las.
+Registrei o resumo dos três experimentos no [README principal](../README.md). Se eu decidir publicar capturas de tela ou transcrições das respostas, elas ficarão nesta pasta.
 
-Ao adicionar uma evidência, use apenas materiais que possam ser compartilhados publicamente e retire dados pessoais, se houver.
+Vou compartilhar somente materiais públicos e sem dados pessoais.
