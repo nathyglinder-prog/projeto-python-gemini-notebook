@@ -1,6 +1,6 @@
 # Fontes utilizadas
 
-Estas são as fontes reunidas no Gemini Notebook para o experimento. Elas foram escolhidas por oferecerem perspectivas complementares sobre o aprendizado inicial de Python.
+Reuni estas fontes no Gemini Notebook por oferecerem perspectivas complementares sobre o aprendizado inicial de Python.
 
 | Fonte | Tipo | Link | Como contribuiu para o experimento |
 | --- | --- | --- | --- |
@@ -10,4 +10,4 @@ Estas são as fontes reunidas no Gemini Notebook para o experimento. Elas foram 
 | Python Brasil | Comunidade | [Acessar Python Brasil](https://python.org.br/index) | Apoio e comunidade. |
 | *3 projetos fáceis em Python* | Projeto/tutorial | **Pendente — inserir o link original usado no Gemini Notebook.** | Exemplos práticos. |
 
-> Observação: o quinto material ficou identificado pelo título usado no notebook. O link será incluído assim que a origem original for localizada, evitando substituir a fonte utilizada por outra parecida.
+> Observação: registrei o quinto material com o título usado no notebook. Quando eu localizar o link original, vou acrescentá-lo aqui para não substituir a fonte utilizada por outra parecida.
